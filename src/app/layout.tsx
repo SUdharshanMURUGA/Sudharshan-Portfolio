@@ -4,7 +4,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Sudharshan Murugan | Data Engineer & Frontend Developer",
   description:
-    "Data Engineer at TCS working on Liberty Mutual Insurance. Expert in Python, SQL, ETL, and cloud data solutions. Gold Medalist & M.Sc CS from SRM.",
+    "Data Engineer at TCS working on Enterprise Insurance Platform. Expert in Python, SQL, ETL, and cloud data solutions. Gold Medalist & M.Sc CS from SRM.",
   keywords: [
     "Data Engineer",
     "TCS",
