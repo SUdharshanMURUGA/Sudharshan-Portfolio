@@ -26,7 +26,7 @@ export default function AboutSection() {
               <p>
                 Hello! I&apos;m <span className="text-[#e2e8f0] font-semibold">Sudharshan Murugan</span>, a passionate Data Engineer at{" "}
                 <span className="text-[#06B6D4] font-semibold">Tata Consultancy Services</span>, currently working on the{" "}
-                <span className="text-[#e2e8f0] font-semibold">Liberty Mutual Insurance</span> project. I&apos;m from the historic city of Kanchipuram, Tamil Nadu.
+                <span className="text-[#e2e8f0] font-semibold">Insurance Domain</span> project. I enjoy building scalable data pipelines, optimizing workflows, and transforming complex data into meaningful business insights. I&apos;m from the historic city of Kanchipuram, Tamil Nadu.
               </p>
               <p>
                 I hold an <span className="text-[#e2e8f0] font-semibold">M.Sc in Computer Science from SRM Institute (CGPA: 9.19)</span> and a B.Sc from SCSVMV University where I was awarded a{" "}
