@@ -189,8 +189,8 @@ export const projects = [
     outcome: "Enhanced operational efficiency for businesses, reducing manual errors and optimizing inventory tracking.",
     icon: "📦",
     color: "from-cyan-900/20 to-blue-900/20",
-    github: "#",
-    demo: "#",
+    github: "https://github.com/SUdharshanMURUGA/stocktrack",
+    demo: "https://stocktrack-tau.vercel.app/",
     tag: "Desktop Application",
   },
 ];
