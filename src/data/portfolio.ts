@@ -36,13 +36,13 @@ export const experience = [
   {
     company: "Tata Consultancy Services (TCS)",
     role: "Data Engineer",
-    project: "Liberty Mutual Insurance",
+    project: "Enterprise Insurance Platform",
     location: "Chennai, India",
     period: "May 2025 – Present",
     duration: "1+ year",
     type: "Full-time",
     responsibilities: [
-      "Design and develop scalable data pipelines and ETL workflows for Liberty Mutual Insurance business intelligence and analytics.",
+      "Design and develop scalable data pipelines and ETL workflows for enterprise insurance analytics and reporting.",
       "Build and maintain data models, integrations, and transformations using SQL and Python in cloud-based environments.",
       "Collaborate with cross-functional teams including data analysts, architects, and business stakeholders.",
       "Monitor data quality, troubleshoot pipeline failures, and optimize performance for large-scale data processing.",
@@ -248,12 +248,12 @@ export const timeline = [
   { year: "2023", title: "Frontend Intern", desc: "Magic Bus India Foundation — React & Web", icon: "💻" },
   { year: "2023", title: "ISRO Project", desc: "LULC Mapping using ML techniques", icon: "🛰️" },
   { year: "2024", title: "Lung Cancer Detector", desc: "PG Major Project — EfficientNet CNN", icon: "🫁" },
-  { year: "2025", title: "Data Engineer @ TCS", desc: "Liberty Mutual Insurance — Enterprise Data", icon: "🚀" },
+  { year: "2025", title: "Data Engineer @ TCS", desc: "Enterprise Insurance Solutions — Enterprise Data", icon: "🚀" },
 ];
 
 export const aiKnowledge = {
   skills: "Sudharshan has strong skills in Python (80%), SQL (82%), HTML/CSS (85%), and JavaScript (72%). He also works with Flask, TensorFlow, Scikit-learn, MySQL, and Git. He is currently learning React.js and deepening his cloud platform knowledge.",
-  experience: "Sudharshan has been a Data Engineer at TCS since May 2025 (1+ year), working on Liberty Mutual Insurance. He previously interned as a Frontend Developer at Magic Bus India Foundation and as a Python & ML Developer at Code Clause.",
+  experience: "Sudharshan has been a Data Engineer at TCS since May 2025 (1+ year), Enterprise Insurance Solutions. He previously interned as a Frontend Developer at Magic Bus India Foundation and as a Python & ML Developer at Code Clause.",
   projects: "He has built a Lung Cancer Detection System using Flask + EfficientNet-B0 CNN for CT scan analysis, and a Stock Management System using VB.NET + MySQL. He's currently working on enterprise data pipelines at TCS.",
   education: "Sudharshan holds an M.Sc in Computer Science from SRM Institute (CGPA: 9.19) and a B.Sc from SCSVMV University (CGPA: 9.55) where he was awarded a Gold Medal for the highest academic performance.",
   hire: "Yes! Sudharshan is open to new opportunities in Data Engineering, Python development, and related roles. Reach out at sudharshan100002@gmail.com or via the contact form.",
