@@ -10,8 +10,8 @@ export const personal = {
   linkedin: "https://www.linkedin.com/in/sudharshan-murugan-8323b4241",
   github: "https://github.com/SUdharshanMURUGA",
   summary:
-    "Data Engineer at Tata Consultancy Services working on Liberty Mutual Insurance. With a Master's degree in Computer Science (CGPA: 9.19) and a Gold Medal in undergraduate studies, I combine strong academic excellence with practical industry experience. I enjoy transforming complex challenges into simple, effective solutions—whether it's building reliable data pipelines, developing responsive web applications, or creating AI/ML-driven insights from data.",
-  about: `Hello! I'm Sudharshan Murugan, a passionate Data Engineer at Tata Consultancy Services, currently working on the Liberty Mutual Insurance project. I'm from the historic city of Kanchipuram, Tamil Nadu.
+    "Data Engineer at Tata Consultancy Services | Insurance Domain. With a Master's degree in Computer Science (CGPA: 9.19) and a Gold Medal in undergraduate studies, I combine strong academic excellence with practical industry experience. I enjoy transforming complex challenges into simple, effective solutions—whether it's building reliable data pipelines, developing responsive web applications, or creating AI/ML-driven insights from data.",
+  about: `Hello! I'm Sudharshan Murugan, a passionate Data Engineer at Tata Consultancy Services with experience in developing enterprise solutions for the insurance industry. I enjoy building scalable applications, solving complex data challenges, and continuously expanding my knowledge of cloud technologies and modern software development. I'm from the historic city of Kanchipuram, Tamil Nadu.
 
 I hold a Master's degree in Computer Science from SRM Institute of Science and Technology and a Bachelor's degree from SCSVMV University, where I was awarded a prestigious Gold Medal for securing the highest CGPA.
 
