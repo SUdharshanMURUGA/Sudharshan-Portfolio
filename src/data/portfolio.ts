@@ -167,8 +167,8 @@ export const projects = [
     outcome: "Enabled healthcare professionals to perform preliminary screenings, potentially saving lives through early detection.",
     icon: "🫁",
     color: "from-blue-900/20 to-indigo-900/20",
-    github: "#",
-    demo: "#",
+    github: "https://github.com/SUdharshanMURUGA/lung-cancer-detection",
+    demo: "https://lung-cancer-detection-opal.vercel.app/",
     tag: "AI/ML + Healthcare",
   },
   {
