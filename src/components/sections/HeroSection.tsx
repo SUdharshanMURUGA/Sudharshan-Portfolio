@@ -96,7 +96,7 @@ export default function HeroSection() {
             Data Engineer at{" "}
             <span className="text-[#e2e8f0] font-semibold">Tata Consultancy Services</span>{" "}
             working on{" "}
-            <span className="text-[#06B6D4] font-semibold">Liberty Mutual Insurance</span>.
+            <span className="text-[#06B6D4] font-semibold">Insurance Domain</span>.
             Gold Medalist with M.Sc CS (CGPA: 9.19). Transforming raw data into
             high-performance business intelligence.
           </motion.p>
